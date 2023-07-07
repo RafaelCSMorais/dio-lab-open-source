@@ -19,8 +19,7 @@ Olá, estou iniciando meus primeiros passos na área de programação. Anteriorm
 
 ----
   
-📇 Contatos!
+📇 Contatos
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelcsm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rafael-morais-3a1b4535)
-
